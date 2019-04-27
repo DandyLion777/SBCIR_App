@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "633665990731",
+    "firebase_url": "https://sbcir-cc397.firebaseio.com",
+    "project_id": "sbcir-cc397",
+    "storage_bucket": "sbcir-cc397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633665990731:android:3baa9bf2c7903c09",
+        "android_client_info": {
+          "package_name": "com.example.smallbusinesscyberincidenceresponse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633665990731-his69871brvo2fhupmem2bv87p69ntuo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smallbusinesscyberincidenceresponse",
+            "certificate_hash": "fe272f6981ff4801edee4727d42741ee85a60ce2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC0j7t9hKMSh02FQ7PxHGVkv8IeSnDm9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633665990731-cjnajkrrngp1h8ef79ilpqeulg3a9k3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
